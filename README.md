@@ -68,7 +68,7 @@ Once the server is running, open your browser and go to:
 
 ## API - Endpoints
 
-### ➕ Create a Note
+###  Create a Note
 
 **POST** `/notes`
 
@@ -149,3 +149,4 @@ Sensitive information should not be committed to the repository.
 * All required APIs implemented
 * Tested using Swagger and pytest
 * Meets assessment requirements
+
